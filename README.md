@@ -20,7 +20,7 @@ Kia-Log yang artinya Cendikia Berdialog, Merupakan platform dimana para kaum ter
 Bentuk foldering
 > database  → sql  → manual.sql
 
-atau klik [Query SQL](manual.sql) untuk melihat query dengan data manipulasi 
+atau klik [Query SQL](manual.sql) untuk melihat query dengan data manipulasi. 
 
 
 ## TABEL ERD : ![ERD](img/erdKialog.png)
