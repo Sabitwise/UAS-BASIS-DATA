@@ -18,7 +18,9 @@ Kia-Log yang artinya Cendikia Berdialog, Merupakan platform dimana para kaum ter
 ## LINK PROJECT REPOSITORY : [Kialog Code](https://github.com/moozunch/kialog-code)
 
 Bentuk foldering
-> database  → sql  → manual.sql
+> database  → sql  → manual.sql 
+> 
+> [Foldering di Repository](https://github.com/moozunch/kialog-code/tree/main/database/sql)
 
 atau klik [Query SQL](manual.sql) untuk melihat query dengan data manipulasi. 
 
