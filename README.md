@@ -1,3 +1,3 @@
-LINK PROJECT REPOSITORY : https://github.com/moozunch/kialog-code
+**LINK PROJECT REPOSITORY :** https://github.com/moozunch/kialog-code
 
-LINK TABEL ERD : 
+**LINK TABEL ERD :** 
