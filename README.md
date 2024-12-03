@@ -2,7 +2,7 @@
 
 - Annisa Putri Aprilia 231401036
 - Atikah Sabrina Siregar 231401096
-- Natasya Sabina Ginting 231401108
+- Natasya Sabina Br Ginting 231401108
 - Alfathan Bagas Kurnia 231401012
 
 ## Overview Project
