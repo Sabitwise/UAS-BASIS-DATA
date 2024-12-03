@@ -13,9 +13,13 @@ Kia-Log yang artinya Cendikia Berdialog, Merupakan platform dimana para kaum ter
 
 ---
 
-## LINK PROJECT REPOSITORY : https://github.com/moozunch/kialog-code
+## LINK PROJECT REPOSITORY : [Kialog Code](https://github.com/moozunch/kialog-code)
 
 Bentuk foldering
 > database > sql > manual.sql
 
-## TABEL ERD : ![ERD](erdKialog.png)
+atau klik untuk melihat query dengan data manipulasi  →
+[Query SQL](manual.sql)
+
+
+## TABEL ERD : ![ERD](img/erdKialog.png)
