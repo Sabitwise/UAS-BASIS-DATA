@@ -226,7 +226,7 @@ EXECUTE FUNCTION update_updated_at_followers();
 
 
 --------------------------------------------------
--- Kebanyakan kode yang saya gunakan untuk database saya merupakan DDL, DML sebagai berikut
+-- Kebanyakan kode yang kami gunakan untuk database kami merupakan DDL, DML sebagai berikut
 
 -- Memasukkan / Menambah row ke table users
 INSERT INTO users (username, email, password) VALUES ('annisa', 'annisa@gmail.com', 'password123');
